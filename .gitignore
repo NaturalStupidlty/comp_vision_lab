@@ -198,3 +198,7 @@ calibration_*.npy
 *.heic
 *.ico
 *.raw
+
+DOTA/
+dota_*
+outputs_*
